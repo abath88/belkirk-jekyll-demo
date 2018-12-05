@@ -14,10 +14,10 @@ show_news: false
 partners: []
 show_staff: false
 menu:
+  navigation:
+    weight: 5
   footer:
     weight: 4
     title: aaaa
-  navigation:
-    weight: 6
 
 ---
