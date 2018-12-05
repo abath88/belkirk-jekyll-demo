@@ -41,3 +41,4 @@ fields:
   name: somethinaaag
   label: something
   description: asdaasda
+  default: '10'
