@@ -80,5 +80,5 @@ fields:
   hidden: true
   default: home
 pages:
-- ddd.md
 - index.md
+- ddd.md
