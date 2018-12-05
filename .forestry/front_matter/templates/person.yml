@@ -36,3 +36,8 @@ fields:
   type: text
   hidden: true
   default: person
+- type: number
+- type: text
+  name: somethinaaag
+  label: something
+  description: asdaasda
